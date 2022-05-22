@@ -1,0 +1,59 @@
+body
+{
+background-color: grey;
+}
+
+h1
+{
+   color:#52052b;
+   font-style: bold;
+   font-style: italic;
+   font-size:34px;
+}
+
+h2
+{
+    color:#113523;
+    font-style:italic;
+    font-style:bold;
+    font-size:30px;
+}
+
+h3
+{
+    color:white;
+    font-size:19px;
+    font-weight:bold;
+}
+
+p
+{
+    color:rgb(6, 6, 71);
+    font-size:17px;
+    font-weight:bold;
+}
+
+text{
+    font-size:30px;
+    font-weight:bold;
+    font-style:italic;
+    color:#52052b;
+}
+
+img
+{
+    padding-right:35px;
+}
+
+h4{
+    color:rgb(0, 53, 31);
+    font-size:15.5px;
+    font-weight:bold;
+    padding-left:1050px;
+}
+
+h5{
+    color:rgb(2, 54, 165);
+    font-size:19px;
+    padding-left:970px;
+}
